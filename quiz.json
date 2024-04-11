@@ -1,0 +1,39 @@
+
+[
+    { 
+        "question":"What is the Capital of India?",
+        "choices":["Mumbai","Chennai","Pune","New Delhi"],
+        "correct_ans":"4"
+    },
+    { 
+        "question":"Who was India's first Prime Minister?",
+        "choices":["Jawaharlal Nehru","Indira Gandhi","Mahatman Gandhi","Vallabhbhai Patel"],
+        "correct_ans":"1"
+    },
+    { 
+        "question":"Who is national bird of India?",
+        "choices":["Duck","Swan","Peacock","Ostrich"],
+        "correct_ans":"1"
+    },
+    { 
+        "question": "What is the national animal of India?",
+        "choices": ["Lion", "Tiger", "Elephant", "Leopard"],
+        "answer": "Tiger"
+    },
+    { 
+        "question": "Which Indian state is known as the 'Land of Five Rivers'?",
+        "choices": ["Punjab", "Gujarat", "Rajasthan", "Maharashtra"],
+        "answer": "Punjab"
+    },
+    { 
+        "question": "Which river is known as the 'Ganga of the South'?",
+        "choices": ["Yamuna", "Godavari", "Krishna", "Cauvery"],
+        "answer": "Godavari"
+    },
+    { 
+        "question": "What is the largest planet in our solar system?",
+        "choices": ["Mars", "Jupiter", "Saturn", "Venus"],
+        "answer": "Jupiter"
+    }
+
+  ]
